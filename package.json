@@ -30,7 +30,7 @@
     "emails"
   ],
   "dependencies": {
-    "email-regex": "^1.0.0"
+    "email-regex": "github:jecun/email-regex"
   },
   "devDependencies": {
     "ava": "*",
